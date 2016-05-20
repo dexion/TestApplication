@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="cannot_delete">Can not delete</string>
+    <string name="error_deleting">Error</string>
+    <string name="shift_type_name_hint">Name</string>
+    <string name="shift_type_name">Name</string>
+    <string name="change_shift_type_color">Change color</string>
+    <string name="search_title">Search</string>
+    <string name="action_undo">Undo</string>
+    <string name="shift_type_main_settings">Main settings</string>
+    <string name="choose_color">Choose color</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="title_activity_show_shift_type">Shift type</string>
+    <string name="removed">Removed</string>
+</resources>
